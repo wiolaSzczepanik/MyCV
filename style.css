@@ -26,13 +26,14 @@ header {
   text-align: center;
   background-size: cover;
   background-image: url('/home/wiola/Dokumenty/ProjektyIT/CVinHTML/img/bg.jpg');
-  background-position: center;
+  background-position: fixed;
 }
 
 header section {
   color: white;
   margin: 0 auto;
   text-align: center;
+
 
 }
 
